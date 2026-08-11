@@ -123,6 +123,44 @@ for text data annotation.
 | 108 | Please remove my old phone number and replace it with my new one. | Neutral | Request | Account | Customer requests an update to the phone number associated with their account. |
 | 109 | The website loads normally, but it freezes as soon as I open the payment page. | Negative | Complaint | Technical | Customer identifies a recurring technical problem specifically on the payment page. |
 | 110 | I was impressed by how well the product was packaged. | Positive | Statement | Product | Customer expresses positive feedback about the product packaging. |
-...
+| 111 | I received a notification saying my payment was successful, but my order still shows as unpaid. | Negative | Complaint | Payment | Customer reports an inconsistency between the payment confirmation and the order status. |
+| 112 | Is there a way to track my package while it is being delivered? | Neutral | Question | Shipping | Customer asks whether package tracking is available during delivery. |
+| 113 | Someone changed the email address on my account without my permission. | Negative | Complaint | Account | Customer reports an unauthorized change to their account information. |
+| 114 | After the latest update, the app opens much faster than before. | Positive | Statement | Technical | Customer gives positive feedback about improved application performance. |
+| 115 | Does this phone come with a charger in the box? | Neutral | Question | Product | Customer asks whether a charger is included with the product. |
+| 116 | The courier was very careful with my package, and everything arrived safely. | Positive | Statement | Shipping | Customer expresses satisfaction with the delivery service and condition of the package. |
+| 117 | I requested a refund last week, but I have not received the money yet. | Negative | Complaint | Payment | Customer complains about a delayed refund. |
+| 118 | Please change the language displayed on my account. | Neutral | Request | Account | Customer requests a change to their account language setting. |
+| 119 | The checkout page keeps refreshing before I can complete my order. | Negative | Complaint | Technical | Customer reports a recurring technical issue preventing checkout completion. |
+| 120 | The product feels much more durable than I expected. | Positive | Statement | Product | Customer expresses positive feedback about the product's durability. |
+| 121 | The money was deducted from my account, but the order was automatically canceled. | Negative | Complaint | Payment | Customer reports that money was deducted even though the order was canceled. |
+| 122 | Could you let me know if my package can be delivered to a different address? | Neutral | Question | Shipping | Customer asks whether the delivery address can be changed. |
+| 123 | I can log in on my phone, but the website keeps rejecting my password. | Negative | Complaint | Account | Customer reports an account access problem that occurs specifically on the website. |
+| 124 | The app used to freeze frequently, but the latest update seems to have fixed the problem. | Positive | Statement | Technical | Customer gives positive feedback because a previous technical problem appears to be resolved. |
+| 125 | I like the product, but does it support wireless charging? | Neutral | Question | Product | Customer asks about a specific product feature. |
+| 126 | My package arrived two days late, but the items were all in perfect condition. | Positive | Statement | Shipping | Despite the delay, the customer expresses satisfaction with the condition of the delivered items. |
+| 127 | I canceled the order yesterday. Why has the payment still not been refunded? | Negative | Complaint | Payment | Customer complains that a refund has not been received after canceling an order. |
+| 128 | Please remove the old delivery address from my account. | Neutral | Request | Account | Customer requests removal of an outdated address from their account. |
+| 129 | The website works on my laptop, but it crashes every time I use the mobile browser. | Negative | Complaint | Technical | Customer reports a technical problem that occurs specifically on a mobile browser. |
+| 130 | I expected the product to be good, but it turned out to be even better. | Positive | Statement | Product | Customer expresses strong satisfaction because the product exceeded expectations. |
+| 131 | I received a message saying my refund was approved, but the money is still not in my account. | Negative | Complaint | Payment | Customer complains that an approved refund has not been received. |
+| 132 | Do you know approximately how long international delivery usually takes? | Neutral | Question | Shipping | Customer asks about the estimated duration of international delivery. |
+| 133 | I changed my password successfully, but I still cannot sign in from my tablet. | Negative | Complaint | Account | Customer reports continued account access problems on a specific device. |
+| 134 | The latest app update made the search feature much easier to use. | Positive | Statement | Technical | Customer gives positive feedback about an improvement to the application. |
+| 135 | Does this model have enough storage for large video files? | Neutral | Question | Product | Customer asks whether the product has sufficient storage capacity for their needs. |
+| 136 | The courier contacted me before arriving, which made the delivery very convenient. | Positive | Statement | Shipping | Customer expresses satisfaction with the courier's delivery service. |
+| 137 | I was charged an extra amount at checkout that was not shown on the product page. | Negative | Complaint | Payment | Customer complains about an unexpected additional charge. |
+| 138 | Could you help me remove a device that I no longer use from my account? | Neutral | Request | Account | Customer requests assistance managing a device linked to their account. |
+| 139 | The payment button does nothing when I click it, even after refreshing the page. | Negative | Complaint | Technical | Customer reports that the payment interface remains unresponsive after troubleshooting. |
+| 140 | The product arrived with better accessories than I expected. | Positive | Statement | Product | Customer expresses satisfaction because the included accessories exceeded expectations. |
+| 141 | I received a payment confirmation, but the amount charged was different from what I expected. | Negative | Complaint | Payment | Customer reports an unexpected difference between the confirmed amount and the amount charged. |
+| 142 | Can I choose a specific delivery date for my order? | Neutral | Question | Shipping | Customer asks whether a specific delivery date can be selected. |
+| 143 | I can access my account, but my order history has disappeared. | Negative | Complaint | Account | Customer reports missing order history despite being able to access the account. |
+| 144 | The latest version of the application is much more stable than before. | Positive | Statement | Technical | Customer gives positive feedback about improved application stability. |
+| 145 | Is this product compatible with both Android and iOS devices? | Neutral | Question | Product | Customer asks about the product's compatibility with different operating systems. |
+| 146 | My package arrived a little late, but the courier kept me informed throughout the delivery. | Positive | Statement | Shipping | Customer remains satisfied because the courier provided helpful delivery updates despite the delay. |
+| 147 | I canceled my subscription, but I was charged again this month. | Negative | Complaint | Payment | Customer complains about being charged after canceling a subscription. |
+| 148 | Please help me update the name displayed on my account. | Neutral | Request | Account | Customer requests assistance changing the name associated with their account. |
+| 149 | The website works normally until I try to submit the form, then it suddenly crashes. | Negative | Complaint | Technical | Customer reports a recurring technical problem when submitting a form. |
+| 150 | I am impressed with the product quality and would definitely recommend it. | Positive | Statement | Product | Customer expresses strong satisfaction and recommends the product. |
 
-| 300 | ... | ... | ... | ... | ... |
