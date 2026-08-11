@@ -1,4 +1,4 @@
-# 300 Data Annotation Practice
+# 150 Data Annotation Practice
 
 This dataset contains 300 self-created practice samples
 for text data annotation.
