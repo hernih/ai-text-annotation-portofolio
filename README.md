@@ -31,7 +31,7 @@ This repository contains my annotation practice and portfolio for Natural Langua
 
 ## Portfolio Progress
 
-✅ Completed 300 AI Text Annotation Practice
+✅ Completed 150 AI Text Annotation Practice
 
 ---
 ## 📂 Sample Projects
