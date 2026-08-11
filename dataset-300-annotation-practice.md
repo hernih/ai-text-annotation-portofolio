@@ -93,6 +93,16 @@ for text data annotation.
 | 78 | Please help me change the password for my account. | Neutral | Request | Account | Customer requests assistance changing their account password. |
 | 79 | The website shows a server error whenever I try to place an order. | Negative | Complaint | Technical | Customer reports a recurring server error when placing an order. |
 | 80 | I am very satisfied with the product I received. | Positive | Statement | Product | Customer expresses satisfaction with the received product. |
+| 81 | My refund was credited to my account this morning. | Positive | Statement | Payment | Customer confirms that the refund was received successfully. |
+| 82 | The delivery has been delayed again and I still have not received my package. | Negative | Complaint | Shipping | Customer complains about a repeated delivery delay. |
+| 83 | Could you help me update the personal information on my account? | Neutral | Request | Account | Customer requests assistance updating their account information. |
+| 84 | The application crashes whenever I try to open the settings page. | Negative | Complaint | Technical | Customer reports that the application crashes when accessing settings. |
+| 85 | Is this product available in black? | Neutral | Question | Product | Customer asks whether the product is available in a specific color. |
+| 86 | My order arrived earlier than expected and everything was perfect. | Positive | Statement | Shipping | Customer is satisfied with the early and successful delivery. |
+| 87 | I was charged for my order, but the transaction still shows as pending. | Negative | Complaint | Payment | Customer reports an inconsistency between the charge and the payment status. |
+| 88 | Please help me restore access to my account. | Neutral | Request | Account | Customer requests assistance regaining access to their account. |
+| 89 | The checkout page stops responding when I click the payment button. | Negative | Complaint | Technical | Customer reports that the checkout page becomes unresponsive during payment. |
+| 90 | This product is even better than I expected. | Positive | Statement | Product | Customer expresses strong satisfaction with the product. |
 ...
 
 | 300 | ... | ... | ... | ... | ... |
