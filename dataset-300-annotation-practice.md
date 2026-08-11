@@ -13,7 +13,65 @@ for text data annotation.
 
 | No | Customer Text | Sentiment | Intent | Category | Reason |
 |---|---|---|---|---|---|
-| 1 | ... | ... | ... | ... | ... |
-| 2 | ... | ... | ... | ... | ... |
+| 1 | The refund has been processed successfully. | Positive | Statement | Payment | Customer confirms that the refund has been completed successfully. |
+| 2 | The application keeps crashing when I try to log in. | Negative | Complaint | Technical | Customer reports a recurring technical problem with the application. |
+| 3 | I would like to update my account information. | Neutral | Request | Account | Customer requests an update to their account information. |
+| 4 | The package arrived earlier than expected. | Positive | Statement | Shipping | Customer is satisfied because the package arrived earlier than expected. |
+| 5 | The shipment has been delayed for ten days. | Negative | Complaint | Shipping | Customer reports a significant shipping delay. |
+| 6 | My payment was completed successfully. | Positive | Statement | Payment | Customer confirms that the payment was completed successfully. |
+| 7 | My account has been locked and I cannot log in. | Negative | Complaint | Account | Customer reports being unable to access their account. |
+| 8 | I would like to change my delivery address. | Neutral | Request | Shipping | Customer requests a change to their delivery information. |
+| 9 | The application keeps showing an error when I open it. | Negative | Complaint | Technical | Customer reports a recurring technical error in the application. |
+| 10 | My package arrived earlier than expected. | Positive | Statement | Shipping | Customer is satisfied because the package arrived earlier than expected. |
+| 11 | I received a confirmation email for my payment. | Positive | Statement | Payment | Customer confirms receiving a payment confirmation. |
+| 12 | I cannot access my account after resetting my password. | Negative | Complaint | Account | Customer reports being unable to access the account after a password reset. |
+| 13 | Could you tell me when my package will arrive? | Neutral | Question | Shipping | Customer asks for information about the expected delivery time. |
+| 14 | The website stops responding whenever I try to upload a document. | Negative | Complaint | Technical | Customer reports a technical problem while using the website. |
+| 15 | I want to know which products are currently available. | Neutral | Request | Product | Customer requests information about available products. |
+| 16 | The delivery service was excellent and very fast. | Positive | Statement | Shipping | Customer expresses satisfaction with the delivery service. |
+| 17 | I was charged twice for the same order. | Negative | Complaint | Payment | Customer reports an incorrect duplicate charge. |
+| 18 | Please help me change the email address on my account. | Neutral | Request | Account | Customer requests assistance updating their account email address. |
+| 19 | The product I received was damaged. | Negative | Complaint | Product | Customer reports that the received product was damaged. |
+| 20 | Can you explain why my payment is still pending? | Neutral | Question | Payment | Customer asks for an explanation about a pending payment. |
+| 21 | I am very happy with the quality of this product. | Positive | Statement | Product | Customer expresses satisfaction with the product quality. |
+| 22 | My order has not arrived yet. | Negative | Complaint | Shipping | Customer complains that the order has not been delivered. |
+| 23 | Could you help me check my account status? | Neutral | Request | Account | Customer requests assistance checking their account status. |
+| 24 | The payment page keeps freezing. | Negative | Complaint | Technical | Customer reports a technical problem on the payment page. |
+| 25 | I would like to know more about this product. | Neutral | Request | Product | Customer requests additional product information. |
+| 26 | The package arrived in perfect condition. | Positive | Statement | Shipping | Customer is satisfied with the condition of the delivered package. |
+| 27 | I was charged a fee that I did not expect. | Negative | Complaint | Payment | Customer complains about an unexpected payment fee. |
+| 28 | Please reset my account password. | Neutral | Request | Account | Customer requests a password reset for their account. |
+| 29 | The app stopped working after the latest update. | Negative | Complaint | Technical | Customer reports that the application stopped working after an update. |
+| 30 | The product looks exactly like the description. | Positive | Statement | Product | Customer confirms that the product matches its description. |
+| 31 | I am satisfied with the service I received. | Positive | Statement | Product | Customer expresses satisfaction with the service received. |
+| 32 | My package is still stuck at the sorting center. | Negative | Complaint | Shipping | Customer complains about a delay in the package delivery process. |
+| 33 | Can you help me update my phone number? | Neutral | Request | Account | Customer requests assistance updating their account phone number. |
+| 34 | The checkout page shows an error every time I try to pay. | Negative | Complaint | Technical | Customer reports a recurring technical error during checkout. |
+| 35 | Where can I find the specifications of this product? | Neutral | Question | Product | Customer asks where to find product specifications. |
+| 36 | My order arrived safely and on time. | Positive | Statement | Shipping | Customer confirms that the order arrived safely and on time. |
+| 37 | The payment was declined even though I had enough money. | Negative | Complaint | Payment | Customer complains that the payment was declined unexpectedly. |
+| 38 | Please help me unlock my account. | Neutral | Request | Account | Customer requests assistance unlocking their account. |
+| 39 | The application is extremely slow when I open it. | Negative | Complaint | Technical | Customer reports poor application performance. |
+| 40 | I really like the design of this product. | Positive | Statement | Product | Customer expresses positive satisfaction with the product design. |
+| 41 | The refund arrived in my account today. | Positive | Statement | Payment | Customer confirms receiving the refund. |
+| 42 | My order has been delayed for several days. | Negative | Complaint | Shipping | Customer complains about a delay in receiving the order. |
+| 43 | Could you help me change my account password? | Neutral | Request | Account | Customer requests assistance changing the account password. |
+| 44 | The app crashes whenever I try to open my order history. | Negative | Complaint | Technical | Customer reports that the application crashes when accessing order history. |
+| 45 | What colors are available for this product? | Neutral | Question | Product | Customer asks about the available product colors. |
+| 46 | The delivery arrived exactly when promised. | Positive | Statement | Shipping | Customer is satisfied because the delivery arrived as promised. |
+| 47 | My credit card was charged but the order was not confirmed. | Negative | Complaint | Payment | Customer reports a payment issue where the card was charged without order confirmation. |
+| 48 | Please help me update the name on my account. | Neutral | Request | Account | Customer requests assistance changing their account name. |
+| 49 | The website displays a blank page when I click the payment button. | Negative | Complaint | Technical | Customer reports a technical problem with the payment page. |
+| 50 | This product exceeded my expectations. | Positive | Statement | Product | Customer expresses strong satisfaction with the product. |
+| 51 | The payment was refunded without any problems. | Positive | Statement | Payment | Customer confirms that the payment was refunded successfully. |
+| 52 | My package has been missing for more than a week. | Negative | Complaint | Shipping | Customer complains that the package has not arrived after a long delay. |
+| 53 | Could you help me update my billing information? | Neutral | Request | Account | Customer requests assistance updating their account billing information. |
+| 54 | The website keeps logging me out unexpectedly. | Negative | Complaint | Technical | Customer reports an unexpected technical problem with the website session. |
+| 55 | Do you have this product in a larger size? | Neutral | Question | Product | Customer asks whether the product is available in a larger size. |
+| 56 | My order arrived earlier than the estimated delivery date. | Positive | Statement | Shipping | Customer is satisfied because the order arrived earlier than expected. |
+| 57 | I was charged twice for one payment. | Negative | Complaint | Payment | Customer reports being charged twice for the same payment. |
+| 58 | Please help me deactivate my account. | Neutral | Request | Account | Customer requests assistance deactivating their account. |
+| 59 | The application freezes whenever I try to upload a photo. | Negative | Complaint | Technical | Customer reports that the application freezes during a photo upload. |
+| 60 | I am very pleased with the quality of this product. | Positive | Statement | Product | Customer expresses strong satisfaction with the product quality. |
 ...
 | 300 | ... | ... | ... | ... | ... |
