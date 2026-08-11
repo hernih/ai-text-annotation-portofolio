@@ -103,6 +103,26 @@ for text data annotation.
 | 88 | Please help me restore access to my account. | Neutral | Request | Account | Customer requests assistance regaining access to their account. |
 | 89 | The checkout page stops responding when I click the payment button. | Negative | Complaint | Technical | Customer reports that the checkout page becomes unresponsive during payment. |
 | 90 | This product is even better than I expected. | Positive | Statement | Product | Customer expresses strong satisfaction with the product. |
+| 91 | The refund was completed and the money is back in my account. | Positive | Statement | Payment | Customer confirms that the refund was completed successfully. |
+| 92 | My package has been delayed for several days and I still have not received it. | Negative | Complaint | Shipping | Customer complains about a prolonged delivery delay. |
+| 93 | Could you help me change the address on my account? | Neutral | Request | Account | Customer requests assistance changing their account address. |
+| 94 | The application keeps crashing when I try to view my order. | Negative | Complaint | Technical | Customer reports a recurring application crash when viewing an order. |
+| 95 | What sizes are available for this product? | Neutral | Question | Product | Customer asks about the available product sizes. |
+| 96 | My package arrived safely and earlier than expected. | Positive | Statement | Shipping | Customer is satisfied because the package arrived safely and ahead of schedule. |
+| 97 | My card was charged, but the payment status still says failed. | Negative | Complaint | Payment | Customer reports an inconsistency between the card charge and payment status. |
+| 98 | Please help me reactivate my account. | Neutral | Request | Account | Customer requests assistance reactivating their account. |
+| 99 | The website displays an error whenever I try to upload a document. | Negative | Complaint | Technical | Customer reports a recurring technical error while uploading a document. |
+| 100 | I am very happy with the product and its quality. | Positive | Statement | Product | Customer expresses strong satisfaction with the product and its quality. |
+| 101 | I checked my bank statement and noticed the same purchase was charged twice. | Negative | Complaint | Payment | Customer reports a duplicate charge for the same purchase. |
+| 102 | Could you tell me whether my order has already been handed over to the courier? | Neutral | Question | Shipping | Customer asks about the current shipping status of the order. |
+| 103 | I cannot remember my password and the reset email never arrives. | Negative | Complaint | Account | Customer reports difficulty recovering their account because the password reset email is not received. |
+| 104 | The new version of the app works much faster than the previous one. | Positive | Statement | Technical | Customer gives positive feedback about the improved application performance. |
+| 105 | I am considering buying this laptop. Does it support an external monitor? | Neutral | Question | Product | Customer asks about a specific product feature before making a purchase. |
+| 106 | My order arrived this morning, and the packaging was in excellent condition. | Positive | Statement | Shipping | Customer expresses satisfaction with the condition of the delivered order. |
+| 107 | I tried three different cards, but none of them worked at checkout. | Negative | Complaint | Payment | Customer reports repeated payment failures with multiple cards. |
+| 108 | Please remove my old phone number and replace it with my new one. | Neutral | Request | Account | Customer requests an update to the phone number associated with their account. |
+| 109 | The website loads normally, but it freezes as soon as I open the payment page. | Negative | Complaint | Technical | Customer identifies a recurring technical problem specifically on the payment page. |
+| 110 | I was impressed by how well the product was packaged. | Positive | Statement | Product | Customer expresses positive feedback about the product packaging. |
 ...
 
 | 300 | ... | ... | ... | ... | ... |
