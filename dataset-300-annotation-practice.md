@@ -72,6 +72,27 @@ for text data annotation.
 | 57 | I was charged twice for one payment. | Negative | Complaint | Payment | Customer reports being charged twice for the same payment. |
 | 58 | Please help me deactivate my account. | Neutral | Request | Account | Customer requests assistance deactivating their account. |
 | 59 | The application freezes whenever I try to upload a photo. | Negative | Complaint | Technical | Customer reports that the application freezes during a photo upload. |
-| 60 | I am very pleased with the quality of this product. | Positive | Statement | Product | Customer expresses strong satisfaction with the product quality. |
+| 60 | I am very pleased with the quality of this product. | Positive | Statement | Product | Customer expresses strong
+| 61 | I received my refund earlier than expected. | Positive | Statement | Payment | Customer confirms receiving the refund earlier than expected. |
+| 62 | My package has not moved from the warehouse for five days. | Negative | Complaint | Shipping | Customer complains that the package has been delayed at the warehouse. |
+| 63 | Could you help me change the email address linked to my account? | Neutral | Request | Account | Customer requests assistance changing their account email address. |
+| 64 | The application closes every time I try to upload a file. | Negative | Complaint | Technical | Customer reports that the application unexpectedly closes during file upload. |
+| 65 | Does this product come with a warranty? | Neutral | Question | Product | Customer asks whether the product includes a warranty. |
+| 66 | My order arrived in excellent condition. | Positive | Statement | Shipping | Customer is satisfied with the condition of the delivered order. |
+| 67 | My payment was charged, but I received an error message. | Negative | Complaint | Payment | Customer reports a payment problem after being charged. |
+| 68 | Please help me recover access to my account. | Neutral | Request | Account | Customer requests assistance recovering account access. |
+| 69 | The website becomes unresponsive whenever I open the checkout page. | Negative | Complaint | Technical | Customer reports that the website stops responding during checkout. |
+| 70 | I am really happy with my purchase. | Positive | Statement | Product | Customer expresses satisfaction with the product they purchased. |satisfaction with the product quality. |
+| 71 | The payment went through without any issues. | Positive | Statement | Payment | Customer confirms that the payment was completed successfully. |
+| 72 | My package was supposed to arrive yesterday, but it is still missing. | Negative | Complaint | Shipping | Customer complains that the package has not arrived as expected. |
+| 73 | Can you help me update my account details? | Neutral | Request | Account | Customer requests assistance updating their account information. |
+| 74 | The app keeps freezing when I try to open my profile. | Negative | Complaint | Technical | Customer reports that the application repeatedly freezes when accessing their profile. |
+| 75 | What features does this product have? | Neutral | Question | Product | Customer asks for information about the product features. |
+| 76 | My package arrived safely and everything was intact. | Positive | Statement | Shipping | Customer is satisfied with the condition of the delivered package. |
+| 77 | The payment was declined even though the money was available. | Negative | Complaint | Payment | Customer complains that an available payment method was unexpectedly declined. |
+| 78 | Please help me change the password for my account. | Neutral | Request | Account | Customer requests assistance changing their account password. |
+| 79 | The website shows a server error whenever I try to place an order. | Negative | Complaint | Technical | Customer reports a recurring server error when placing an order. |
+| 80 | I am very satisfied with the product I received. | Positive | Statement | Product | Customer expresses satisfaction with the received product. |
 ...
+
 | 300 | ... | ... | ... | ... | ... |
